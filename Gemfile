@@ -70,3 +70,17 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+# =======================================
+
+# Devise
+gem 'devise'
+
+# Bootstrap
+gem 'bootstrap', '~> 5.1.3'
+
+# jQuery
+gem 'jquery-rails'
+
+# I18n
+gem 'rails-i18n', '~> 7.0.0'
